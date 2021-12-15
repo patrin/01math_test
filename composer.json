@@ -1,0 +1,14 @@
+{
+    "name": "patrin/01math.test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Patrin",
+            "email": "mpatrin@01math.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "sergeytsalkov/meekrodb": "^2.4"
+    }
+}
